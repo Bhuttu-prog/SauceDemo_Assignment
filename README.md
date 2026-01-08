@@ -181,4 +181,3 @@ npx playwright show-report
 ## Contact
 
 For questions or issues, please refer to the test case design document (`TEST_CASES.md`) for manual test scenarios.
-
